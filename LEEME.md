@@ -1,6 +1,6 @@
 # Pack Verano · Landing page
 
-Landing page de venta del producto digital **Pack Verano** de Diletta Ghiglione (PDF de 25 páginas).
+Landing page de venta del producto digital **Pack Verano** de Diletta Ghiglione (PDF de 38 páginas).
 Página estática, sin backend: lista para subir a Vercel, Netlify o cualquier hosting.
 
 ## Archivos
